@@ -1,8 +1,7 @@
 # Getting Started
-## Database Import 
+## Database import from command prompt
 
-### From Command Prompt
-- Create database
+- Create database 
 - Open Command Prompt
 - Type this [Syntax](#syntax)
 
@@ -39,7 +38,7 @@ Here is a login page.When email and password is equal to the records from `users
 
 Here is home page. It can be access after logged in or register. It should not access without logged in or register.
 
-![Homepage Image](./images/home.png)
+![Homepage Image](./images/home_page.png)
 
 ## Logout
 
