@@ -1,15 +1,20 @@
 # Getting Started
 ## Database Import 
-### From SQL Server
 
-Import `testing.sql` file in your SQL Server.
+### From Command Prompt
+- Create database
+- Open Command Prompt
+- Type this [Syntax](#syntax)
 
-### From SQL command line
+### Syntax-
 
 ```
-mysql> use db_name;
-mysql> source testing.sql
+mysql -u username -p database_name < testing.sql
 ```
+
+>**username** = *Your MySQL username.*<br /><br />
+**database_name** = *Database name in which you want to import.*<br /><br />
+**file.sql** = *SQL file name.*
 
 # Register
 
