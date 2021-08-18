@@ -8,7 +8,7 @@
 ### Syntax-
 
 ```
-mysql -u username -p database_name < testing.sql
+mysql -u username -p database_name < file.sql
 ```
 
 >**username** = *Your MySQL username.*<br /><br />
