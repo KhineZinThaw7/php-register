@@ -1,5 +1,5 @@
 # Membership Project
-The complete process of creating a user registration system where users can create an account by providing username, email and password, login and logout using PHP and MySQL.Make home page accessible only to logged-in users. Any other user not logged in will not be able to access the page.
+The complete process of creating a user registration system where users can create an account by providing username, email and password, login and logout using PHP and MySQL.It also show how to make home page accessible only to logged-in users. Any other user not logged in will not be able to access the page.
 
 ## Requirements
 
