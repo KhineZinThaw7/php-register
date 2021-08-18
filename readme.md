@@ -1,5 +1,5 @@
 # Getting Started
-## Databse Import <hr />
+## Databse Import 
 ### From SQL Server
 
 Import `testing.sql` file in your SQL Server.
